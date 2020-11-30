@@ -1,0 +1,246 @@
+number,name,x,y,especialist
+2,N - Násio,575.395,252.892,Especialista 2
+3,Or - Orbital,532.841,366.369,Especialista 2
+11,Po - Pório,177.813,403.444,Especialista 2
+13,Ba - Básio,183.567,485.013,Especialista 2
+17,Co - Condílio,209.103,419.371,Especialista 2
+23,Go - Gônio,253.662,660.534,Especialista 2
+24,Me - Mentoniano,552.259,783.307,Especialista 2
+25,Pog - Pogônio,594.32,747.308,Especialista 2
+26,Gn - Gnátio,574.994,781.412,Especialista 2
+33,A - Ponto A,612.822,500.864,Especialista 2
+34,Ena - Espinha Nasal Anterior,633.322,479.864,Especialista 2
+40,Ptm - Ptérigo-maxilar,358.822,398.614,Especialista 2
+42,Vasa - Via Aérea Superior Anterior,324.322,540.614,Especialista 2
+43,Vasp - Via Aérea Superior Posterior,267.822,520.614,Especialista 2
+44,Vaia - Via Aérea Inferior Anterior,296.822,688.614,Especialista 2
+45,Vaip - Via Aérea Inferior Posterior,245.322,654.114,Especialista 2
+61,Iii - Incisal do Incisivo Inferior,605.449,601.32,Especialista 2
+63,Sf1/ - Face vestibular do incisivo central superior,624.166,593.049,Especialista 2
+69,Ls - Lábio Superior,675.882,574.494,Especialista 2
+71,Sn - Subnasal,666.421,507.117,Especialista 2
+72,Prn - Pronasal Médio,688.533,489.599,Especialista 2
+22,Dc - Ponto Dc,244.73,450.38,Especialista 2
+31,Pm - Promentoniano,590.909,714.721,Especialista 2
+36,Enp - Espinha Nasal Posterior,394.322,506.614,Especialista 2
+46,Xi - Ponto Xi,319.322,577.114,Especialista 2
+48,D6/ - Contato Distal do Primeiro Molar Superior,454.348,589.017,Especialista 2
+50,6/ - Contato Mesial do Primeiro Molar Superior,500.957,586.743,Especialista 2
+51,Ppd - Ponto Posterior de Downs,489.816,596.168,Especialista 2
+52,/6 - Contato Mesial do Primeiro Molar Inferior,500.263,598.779,Especialista 2
+56,PAR - Ponto Anterior de Ricketts,557.284,599.868,Especialista 2
+58,/3 - Incisal do Canino Inferior,586.012,604.22,Especialista 2
+59,3/ - Incisal do Canino Superior,578.83,607.703,Especialista 2
+60,Aii - Ápice Incisivo Inferior,563.663,690.116,Especialista 2
+62,Iis - Incisal do Incisivo Superior,618.507,613.072,Especialista 2
+64,Ais - Ápice Incisivo Superior,588.473,510.782,Especialista 2
+65,Pog' - Pogônio do Tecido Mole,642.473,742.782,Especialista 2
+67,Li - Lábio Inferior,659.209,633.607,Especialista 2
+68,Stm - Stamion,654.662,610.871,Especialista 2
+73,Pn - Pronasal,721.845,458.01,Especialista 2
+93,PTVR - PTVR,356.772,408.949,Especialista 2
+7,S - Sela,277.516,322.166,Especialista 2
+27,E - Ponto E,589.394,768.907,Especialista 2
+28,B - Ponto B,586.741,678.722,Especialista 2
+32,D - Ponto D,561.732,732.53,Especialista 2
+35,P' - Ponto P Linha,610.322,482.614,Especialista 2
+89,V - Ponto V,560.481,742.37,Especialista 2
+90,T - Ponto T,569.186,670.985,Especialista 2
+91,Tuber - Tuber,399.429,516.027,Especialista 2
+92,Pi - Protuberância Incisal,620.549,568.26,Especialista 2
+2,N - Násio,574.781,249.349,Especialista 3
+3,Or - Orbital,543.845,378.985,Especialista 3
+11,Po - Pório,170.072,406.987,Especialista 3
+13,Ba - Básio,183.814,455.116,Especialista 3
+17,Co - Condílio,215.903,424.217,Especialista 3
+23,Go - Gônio,249.351,663.135,Especialista 3
+24,Me - Mentoniano,559.945,779.01,Especialista 3
+25,Pog - Pogônio,592.787,743.526,Especialista 3
+26,Gn - Gnátio,580.173,772.958,Especialista 3
+33,A - Ponto A,606.101,512.28,Especialista 3
+34,Ena - Espinha Nasal Anterior,613.108,487.754,Especialista 3
+40,Ptm - Ptérigo-maxilar,357.227,386.723,Especialista 3
+42,Vasa - Via Aérea Superior Anterior,344.087,520.517,Especialista 3
+43,Vasp - Via Aérea Superior Posterior,270.022,514.544,Especialista 3
+44,Vaia - Via Aérea Inferior Anterior,291.525,685.371,Especialista 3
+45,Vaip - Via Aérea Inferior Posterior,246.13,663.868,Especialista 3
+61,Iii - Incisal do Incisivo Inferior,605.031,602.216,Especialista 3
+63,Sf1/ - Face vestibular do incisivo central superior,625.121,591.333,Especialista 3
+69,Ls - Lábio Superior,673.727,579.979,Especialista 3
+71,Sn - Subnasal,664.11,510.095,Especialista 3
+72,Prn - Pronasal Médio,689.756,489.579,Especialista 3
+22,Dc - Ponto Dc,232.627,431.384,Especialista 3
+31,Pm - Promentoniano,589.283,714.796,Especialista 3
+36,Enp - Espinha Nasal Posterior,407.79,510.178,Especialista 3
+46,Xi - Ponto Xi,314.222,583.831,Especialista 3
+48,D6/ - Contato Distal do Primeiro Molar Superior,405.011,567.106,Especialista 3
+50,6/ - Contato Mesial do Primeiro Molar Superior,450.885,581.098,Especialista 3
+51,Ppd - Ponto Posterior de Downs,424.098,591.143,Especialista 3
+52,/6 - Contato Mesial do Primeiro Molar Inferior,449.211,615.42,Especialista 3
+56,PAR - Ponto Anterior de Ricketts,554.805,594.682,Especialista 3
+58,/3 - Incisal do Canino Inferior,587.452,600.542,Especialista 3
+59,3/ - Incisal do Canino Superior,581.592,603.89,Especialista 3
+60,Aii - Ápice Incisivo Inferior,543.922,695.135,Especialista 3
+62,Iis - Incisal do Incisivo Superior,619.262,613.098,Especialista 3
+64,Ais - Ápice Incisivo Superior,579.48,497.913,Especialista 3
+65,Pog' - Pogônio do Tecido Mole,639.106,751.162,Especialista 3
+67,Li - Lábio Inferior,658.34,642.169,Especialista 3
+68,Stm - Stamion,632.695,603.701,Especialista 3
+73,Pn - Pronasal,723.095,444.699,Especialista 3
+93,PTVR - PTVR,356.347,403.936,Especialista 3
+7,S - Sela,276.287,324.708,Especialista 3
+27,E - Ponto E,590.685,756.84,Especialista 3
+28,B - Ponto B,585.779,686.766,Especialista 3
+32,D - Ponto D,562.655,740.023,Especialista 3
+35,P' - Ponto P Linha,600.495,483.55,Especialista 3
+89,V - Ponto V,560.301,745.912,Especialista 3
+90,T - Ponto T,567.621,680.036,Especialista 3
+91,Tuber - Tuber,363.59,552.86,Especialista 3
+92,Pi - Protuberância Incisal,623.701,568.708,Especialista 3
+2,N - Násio,577.216,251.155,Especialista 1
+3,Or - Orbital,534.404,371.86,Especialista 1
+11,Po - Pório,180.654,397.846,Especialista 1
+13,Ba - Básio,181.654,500.846,Especialista 1
+17,Co - Condílio,213.609,425.338,Especialista 1
+23,Go - Gônio,253.016,672.197,Especialista 1
+24,Me - Mentoniano,554.951,784.627,Especialista 1
+25,Pog - Pogônio,596.67,737.251,Especialista 1
+26,Gn - Gnátio,582.528,776.142,Especialista 1
+33,A - Ponto A,610.105,507.441,Especialista 1
+34,Ena - Espinha Nasal Anterior,623.54,486.935,Especialista 1
+40,Ptm - Ptérigo-maxilar,355.171,390.242,Especialista 1
+42,Vasa - Via Aérea Superior Anterior,323.657,541.866,Especialista 1
+43,Vasp - Via Aérea Superior Posterior,271.927,525.217,Especialista 1
+44,Vaia - Via Aérea Inferior Anterior,289.669,682.543,Especialista 1
+45,Vaip - Via Aérea Inferior Posterior,241.669,666.543,Especialista 1
+61,Iii - Incisal do Incisivo Inferior,604.971,603.23,Especialista 1
+63,Sf1/ - Face vestibular do incisivo central superior,624.471,589.23,Especialista 1
+69,Ls - Lábio Superior,670.123,587.987,Especialista 1
+71,Sn - Subnasal,675.121,498.057,Especialista 1
+72,Prn - Pronasal Médio,704.82,479.672,Especialista 1
+22,Dc - Ponto Dc,242.62,462.337,Especialista 1
+31,Pm - Promentoniano,591.291,712.456,Especialista 1
+36,Enp - Espinha Nasal Posterior,407.165,518.755,Especialista 1
+46,Xi - Ponto Xi,322.669,597.543,Especialista 1
+48,D6/ - Contato Distal do Primeiro Molar Superior,448.799,592.937,Especialista 1
+50,6/ - Contato Mesial do Primeiro Molar Superior,501.125,587.987,Especialista 1
+51,Ppd - Ponto Posterior de Downs,485.669,601.543,Especialista 1
+52,/6 - Contato Mesial do Primeiro Molar Inferior,503.669,611.543,Especialista 1
+56,PAR - Ponto Anterior de Ricketts,556.279,604.958,Especialista 1
+58,/3 - Incisal do Canino Inferior,587.392,606.372,Especialista 1
+59,3/ - Incisal do Canino Superior,573.957,607.079,Especialista 1
+60,Aii - Ápice Incisivo Inferior,563.471,687.23,Especialista 1
+62,Iis - Incisal do Incisivo Superior,617.471,614.23,Especialista 1
+64,Ais - Ápice Incisivo Superior,578.906,497.477,Especialista 1
+65,Pog' - Pogônio do Tecido Mole,637.196,757.793,Especialista 1
+67,Li - Lábio Inferior,657.844,638.305,Especialista 1
+68,Stm - Stamion,635.475,607.786,Especialista 1
+73,Pn - Pronasal,721.467,456.951,Especialista 1
+93,PTVR - PTVR,354.596,408.194,Especialista 1
+7,S - Sela,279.951,325.44,Especialista 1
+27,E - Ponto E,591.998,757.357,Especialista 1
+28,B - Ponto B,587.402,685.94,Especialista 1
+32,D - Ponto D,562.022,737.251,Especialista 1
+35,P' - Ponto P Linha,607.984,486.935,Especialista 1
+89,V - Ponto V,560.329,745.928,Especialista 1
+90,T - Ponto T,566.87,677.549,Especialista 1
+91,Tuber - Tuber,396.219,550.304,Especialista 1
+92,Pi - Protuberância Incisal,618.6,562.791,Especialista 1
+2,N - Násio,577.525,240.05,Especialista 4
+3,Or - Orbital,548.513,373.691,Especialista 4
+11,Po - Pório,171.272,369.791,Especialista 4
+13,Ba - Básio,175.285,478.432,Especialista 4
+17,Co - Condílio,209.235,420.099,Especialista 4
+23,Go - Gônio,252.538,661.724,Especialista 4
+24,Me - Mentoniano,555.707,785.222,Especialista 4
+25,Pog - Pogônio,599.186,744.641,Especialista 4
+26,Gn - Gnátio,580.552,775.284,Especialista 4
+33,A - Ponto A,610.78,504.886,Especialista 4
+34,Ena - Espinha Nasal Anterior,615.749,491.635,Especialista 4
+40,Ptm - Ptérigo-maxilar,359.017,391.013,Especialista 4
+42,Vasa - Via Aérea Superior Anterior,351.977,516.894,Especialista 4
+43,Vasp - Via Aérea Superior Posterior,276.614,491.635,Especialista 4
+44,Vaia - Via Aérea Inferior Anterior,293.177,679.216,Especialista 4
+45,Vaip - Via Aérea Inferior Posterior,245.971,651.058,Especialista 4
+61,Iii - Incisal do Incisivo Inferior,605.002,603.057,Especialista 4
+63,Sf1/ - Face vestibular do incisivo central superior,626.166,580.86,Especialista 4
+69,Ls - Lábio Superior,675.205,571.053,Especialista 4
+71,Sn - Subnasal,666.429,505.495,Especialista 4
+72,Prn - Pronasal Médio,696.369,486.396,Especialista 4
+22,Dc - Ponto Dc,232.692,444.482,Especialista 4
+31,Pm - Promentoniano,592.975,712.343,Especialista 4
+36,Enp - Espinha Nasal Posterior,385.932,513.582,Especialista 4
+46,Xi - Ponto Xi,295.591,597.688,Especialista 4
+48,D6/ - Contato Distal do Primeiro Molar Superior,451.69,584.99,Especialista 4
+50,6/ - Contato Mesial do Primeiro Molar Superior,498.665,588.603,Especialista 4
+51,Ppd - Ponto Posterior de Downs,480.598,594.282,Especialista 4
+52,/6 - Contato Mesial do Primeiro Molar Inferior,503.827,607.703,Especialista 4
+56,PAR - Ponto Anterior de Ricketts,556.995,595.314,Especialista 4
+58,/3 - Incisal do Canino Inferior,568.352,598.411,Especialista 4
+59,3/ - Incisal do Canino Superior,564.738,602.025,Especialista 4
+60,Aii - Ápice Incisivo Inferior,567.319,693.908,Especialista 4
+62,Iis - Incisal do Incisivo Superior,618.939,614.93,Especialista 4
+64,Ais - Ápice Incisivo Superior,583.837,518.917,Especialista 4
+65,Pog' - Pogônio do Tecido Mole,639.587,757.917,Especialista 4
+67,Li - Lábio Inferior,659.719,641.772,Especialista 4
+68,Stm - Stamion,630.812,605.122,Especialista 4
+73,Pn - Pronasal,723.727,450.262,Especialista 4
+93,PTVR - PTVR,356.397,417.625,Especialista 4
+7,S - Sela,276.519,324.421,Especialista 4
+27,E - Ponto E,590.49,762.033,Especialista 4
+28,B - Ponto B,585.107,680.458,Especialista 4
+32,D - Ponto D,563.575,746.712,Especialista 4
+35,P' - Ponto P Linha,605.397,482.939,Especialista 4
+89,V - Ponto V,563.19,751.722,Especialista 4
+90,T - Ponto T,572.481,680.487,Especialista 4
+91,Tuber - Tuber,403.168,547.824,Especialista 4
+92,Pi - Protuberância Incisal,626.682,588.087,Especialista 4
+2,N - Násio,575.641,250.272,Automático
+3,Or - Orbital,535.716,382.314,Automático
+11,Po - Pório,181.597,401.425,Automático
+13,Ba - Básio,183.333,491.77,Automático
+17,Co - Condílio,211.107,420.537,Automático
+23,Go - Gônio,249.297,662.035,Automático
+24,Me - Mentoniano,558.283,785.39,Automático
+25,Pog - Pogônio,594.736,741.955,Automático
+26,Gn - Gnátio,580.849,776.703,Automático
+33,A - Ponto A,606.887,507.406,Automático
+34,Ena - Espinha Nasal Anterior,629.453,486.558,Automático
+40,Ptm - Ptérigo-maxilar,360.393,387.526,Automático
+42,Vasa - Via Aérea Superior Anterior,334.355,531.73,Automático
+43,Vasp - Via Aérea Superior Posterior,261.448,549.104,Automático
+44,Vaia - Via Aérea Inferior Anterior,292.694,693.308,Automático
+45,Vaip - Via Aérea Inferior Posterior,244.089,686.358,Automático
+61,Iii - Incisal do Incisivo Inferior,605.151,599.488,Automático
+63,Sf1/ - Face vestibular do incisivo central superior,625.982,585.589,Automático
+69,Ls - Lábio Superior,672.85,569.953,Automático
+71,Sn - Subnasal,664.171,503.932,Automático
+72,Prn - Pronasal Médio,704.096,479.608,Automático
+22,Dc - Ponto Dc,235.41,453.547,Automático
+31,Pm - Promentoniano,586.057,714.157,Automático
+36,Enp - Espinha Nasal Posterior,382.959,510.881,Automático
+46,Xi - Ponto Xi,304.845,569.953,Automático
+48,D6/ - Contato Distal do Primeiro Molar Superior,448.922,583.852,Automático
+50,6/ - Contato Mesial do Primeiro Molar Superior,495.791,592.539,Automático
+51,Ppd - Ponto Posterior de Downs,481.904,596.014,Automático
+52,/6 - Contato Mesial do Primeiro Molar Inferior,500.999,608.175,Automático
+56,PAR - Ponto Anterior de Ricketts,554.811,602.963,Automático
+58,/3 - Incisal do Canino Inferior,582.585,599.488,Automático
+59,3/ - Incisal do Canino Superior,582.585,608.175,Automático
+60,Aii - Ápice Incisivo Inferior,560.018,689.833,Automático
+62,Iis - Incisal do Incisivo Superior,617.302,613.388,Automático
+64,Ais - Ápice Incisivo Superior,584.321,512.619,Automático
+65,Pog' - Pogônio do Tecido Mole,636.397,752.379,Automático
+67,Li - Lábio Inferior,657.228,639.448,Automático
+68,Stm - Stamion,639.869,608.175,Automático
+73,Pn - Pronasal,721.455,443.123,Automático
+93,PTVR - PTVR,358.657,401.425,Automático
+7,S - Sela,280.542,326.717,Automático
+27,E - Ponto E,591.264,761.066,Automático
+28,B - Ponto B,584.321,684.621,Automático
+32,D - Ponto D,560.018,741.955,Automático
+35,P' - Ponto P Linha,605.151,479.608,Automático
+89,V - Ponto V,560.018,745.43,Automático
+90,T - Ponto T,570.434,672.459,Automático
+91,Tuber - Tuber,372.544,533.467,Automático
+92,Pi - Protuberância Incisal,619.038,559.528,Automático
